@@ -1,0 +1,41 @@
+
+
+.half-width {
+    width: 50%;
+    margin: 4% 5%;
+}
+.right-content img {
+    width: 100%;
+}
+.header-section {
+    display: flex;
+}
+.left-content h1 {
+    font-size: 10em;
+    padding-top: 8%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    padding-left: 5%;
+    border-left: 4px solid;
+    border-color: #FF5959;
+    border-width: 10px;
+}
+.left-content p {
+    font-size: 4em;
+}
+.left-content a {
+    font-size: 4em;
+    text-decoration: none;
+    color: white;
+    border: 4% solid #FF5959;
+    background-color: #FF5959;
+    padding: 2% 8%;
+    border-radius: 20px;
+}
+span {
+    color: #FFAD5A;
+}
+h1 {
+    font-size: 10em;
+    text-align: center;
+}
