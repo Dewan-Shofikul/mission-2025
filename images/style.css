@@ -39,3 +39,9 @@ h1 {
     font-size: 10em;
     text-align: center;
 }
+.images {
+    display: flex;
+}
+.pic-add-1 {
+    background-color: #FFF3EE;
+}
