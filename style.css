@@ -95,7 +95,7 @@ color: #FFAD5A;
     width: 100%;
 }
 .right {
-    margin-left: 50px;
+    margin-left: 100px;
     margin-top: 50px;
     gap: 30px;
 }
@@ -112,10 +112,14 @@ color: #FFAD5A;
 }
 .right p {
     margin: 50px 0;
+    padding-right: 400px;
 }
 /* Community sectiion */
 .lining {
     flex-direction: row-reverse;
+}
+.margin {
+    margin-right: 0;
 }
 
 /* footer section */
