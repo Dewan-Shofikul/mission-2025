@@ -112,6 +112,7 @@ color: #FFAD5A;
 .right p {
     margin: 50px 0;
 }
-.left img .aa {
-    width: 30%
+/* Community sectiion */
+.lining {
+    flex-direction: row-reverse;
 }
