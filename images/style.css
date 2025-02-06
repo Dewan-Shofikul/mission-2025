@@ -49,3 +49,39 @@ header .right-site {
     text-decoration: none;
     border-radius: 10px;
 }
+
+/* Mission area section */
+.mission h1 {
+    font-size: 40px;
+    text-align: center;
+}
+.container h1 span {
+color: #FFAD5A;
+}
+.mission {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-top: 30px;
+}
+.mission .items {
+    display: flex;
+    gap: 20px;
+}
+.items .item {
+    border-radius: 20px;
+    padding: 30px;
+}
+.items .item img {
+    width: 150px;
+}
+#item-1 {
+    background-color: #4f9da61a;
+    ;
+}
+#item-2 {
+    background-color: #FF8B591A;
+}
+#item-3 {
+    background-color: #fff4d6;
+}
