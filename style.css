@@ -115,10 +115,10 @@ color: #FFAD5A;
     margin: 50px 0;
 }
 .bgimg {
-    background-image: url(images/Shapes/shape-1.png);
+    background-image: url(images/Shapes/shape-1.png), url(images/Shapes/pattern.svg);
     background-repeat: no-repeat;
-    background-size: 20%;
-    background-position: left;
+    background-size: 15%, 10%;
+    background-position: left center, left bottom;
 }
 /* Community sectiion */
 .lining {
