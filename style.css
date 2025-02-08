@@ -4,6 +4,7 @@
 
 body {
     font-family: "Poppins", serif;
+    width: 100%;
 }
 body h1,p {
     margin: 0;
